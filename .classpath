@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/encyption-utils-0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/ojdbc7-12.1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/poi-examples-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/poi-excelant-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/poi-scratchpad-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Unite/monitoring/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
