@@ -26,7 +26,7 @@ public class RecordProcessor {
     }
 
     public static void main(String[] args) {
-        String envName = "prod";
+        String envName = "projdev";
         if(args != null && args.length != 0) {
             envName = args[0];
             System.out.println("passed envName as an argument: " + args[0]);
