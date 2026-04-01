@@ -25,7 +25,7 @@ public class MySqlConnection {
         String userName = rb.getString("username");
         String password = rb.getString("password");
         Class.forName("com.mysql.cj.jdbc.Driver");
-        connection = DriverManager.getConnection(url, "divyansh", "Divyansh#202!");
+        connection = DriverManager.getConnection(url, userName, password);
         stmt = connection.createStatement();
         return stmt;
     }
